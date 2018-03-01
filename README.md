@@ -1,6 +1,8 @@
-JVM Class Insight
+JVM Bytecode Insight
 ---
 The purpose of this project is mainly give us insight upon the secret of these magic languages built on JVM.
+
+This project is not intent to be an detail bytecode specification, but to reval some of the differences while modern/emerging features implementation upon different JVM program lanaguages. If you dont have any knowledge over JVM class bytecode before, you better check [here](https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-4.html). 
 
 Prerequisite
 ---
@@ -37,8 +39,10 @@ Catalog
 8. Kotlin Lambda [View](docs/kotlin_lambda.md)
 9. Kotlin Coroutine [View](docs/kotlin_coroutine.md)
 
+> Scala (Todo)
+
 ### References
-*. https://docs.oracle.com/javase/8/docs/technotes/guides/vm/multiple-language-support.html
-*. https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-4.html
-*. http://groovy-lang.org/metaprogramming.html
-*. http://groovy-lang.org/closures.html#_delegation_strategy
+* https://docs.oracle.com/javase/8/docs/technotes/guides/vm/multiple-language-support.html
+* https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-4.html
+* http://groovy-lang.org/metaprogramming.html
+* http://groovy-lang.org/closures.html#_delegation_strategy
