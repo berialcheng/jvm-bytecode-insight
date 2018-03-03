@@ -13,9 +13,8 @@ Prerequisite
 
 Get Started
 ---
-1. `mvn clean install`
-2. `cd target/classes`
-3. `javap -v -p org.nirvana....`
+1. `mvn clean package && cd target/classes`
+2. Inspect the bytecode through `javap -v -p org.nirvana.xxx.XXXXXX`
 
 Catalog
 ---
