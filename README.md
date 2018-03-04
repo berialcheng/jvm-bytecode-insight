@@ -1,5 +1,7 @@
-JVM Bytecode Insight ![Progress](http://progressed.io/bar/40?title=Progress)
+JVM Bytecode Insight
 ---
+![Progress](http://progressed.io/bar/40?title=Progress) ![](https://img.shields.io/github/release/berialcheng/jvm-bytecode-insight.svg)
+
 The purpose of this project is mainly give us insight upon the secret of these magic languages built on JVM.
 
 This project is not intent to be an detail bytecode specification, but to reval some of the differences while modern/emerging features implementation upon different JVM program lanaguages. If you dont have any knowledge over JVM class bytecode before, you better check [here](https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-4.html). 
