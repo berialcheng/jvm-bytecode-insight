@@ -40,7 +40,12 @@ Catalog
 8. Kotlin Lambda [View](docs/kotlin_lambda.md)
 9. Kotlin Coroutine [View](docs/kotlin_coroutine.md)
 
-> Scala (Todo)
+> Scala
+1. Scala CaseClass [View](docs/scala_caseclass.md)
+2. Scala High-Order Function [View](docs/scala_function.md)
+3. Scala Singleton [View](docs/scala_singleton.md)
+4. Scala Trait [View](docs/scala_trait.md)
+5. Scala Tuple [View](docs/scala_tuple.md)
 
 ### References
 * https://docs.oracle.com/javase/8/docs/technotes/guides/vm/multiple-language-support.html
